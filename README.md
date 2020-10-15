@@ -1,2 +1,2 @@
 # Skeleton
-Small shell
+Small shell in C++.
