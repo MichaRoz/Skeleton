@@ -4,8 +4,7 @@ Small shell in C++.
 
 
 Description
-For simplicity, you can assume that only up to 100 processes can run simultaneously and the
-name of each process can contain up to 50 characters.
+
 The program will work as follows:
 ● The program waits for commands that will be typed by the user and executes them
 (and back forth).
